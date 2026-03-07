@@ -1,0 +1,146 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@500;600;700;800&family=Tajawal:wght@400;500;700;800&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --font-display: 'Cairo';
+  --font-body: 'Tajawal';
+  --radius-sm: 14px;
+  --radius-md: 22px;
+  --radius-lg: 32px;
+  --radius-xl: 40px;
+  --radius-pill: 999px;
+  --shadow-soft: 0 12px 45px rgba(15, 23, 42, 0.08);
+  --shadow-card: 0 22px 70px rgba(11, 18, 32, 0.15);
+  --fab-inline: 1.25rem;
+  --fab-offset: max(1rem, calc(env(safe-area-inset-bottom, 0px) + 1rem));
+  --fab-gap: 0.9rem;
+  --fab-stack-size: 4rem;
+}
+
+html,
+body,
+#root {
+  min-height: 100%;
+}
+
+html {
+  scroll-behavior: smooth;
+  overflow-x: hidden;
+}
+
+@media (min-width: 1024px) {
+  :root {
+    --fab-inline: 1.5rem;
+    --fab-offset: max(1.25rem, calc(env(safe-area-inset-bottom, 0px) + 1.25rem));
+  }
+}
+
+html.light {
+  --color-surface-base: var(--color-surface-light-base);
+  --color-surface-muted: var(--color-surface-light-muted);
+  --color-surface-strong: var(--color-surface-light-strong);
+  --color-ink-50: var(--color-ink-light-50);
+  --color-ink-100: var(--color-ink-light-100);
+  --color-ink-300: var(--color-ink-light-300);
+  --color-ink-500: var(--color-ink-light-500);
+  --color-ink-700: var(--color-ink-light-700);
+  --color-ink-900: var(--color-ink-light-900);
+}
+
+html.dark {
+  --color-surface-base: var(--color-surface-dark-base);
+  --color-surface-muted: var(--color-surface-dark-muted);
+  --color-surface-strong: var(--color-surface-dark-strong);
+  --color-ink-50: var(--color-ink-dark-50);
+  --color-ink-100: var(--color-ink-dark-100);
+  --color-ink-300: var(--color-ink-dark-300);
+  --color-ink-500: var(--color-ink-dark-500);
+  --color-ink-700: var(--color-ink-dark-700);
+  --color-ink-900: var(--color-ink-dark-900);
+}
+
+body {
+  @apply bg-surface-base font-body text-ink-900 antialiased transition-colors duration-300;
+  overflow-x: hidden;
+}
+
+::selection {
+  @apply bg-brand-500/20 text-ink-900;
+}
+
+.container-shell {
+  @apply mx-auto w-full max-w-content px-4 sm:px-6 lg:px-8;
+}
+
+.section-space {
+  @apply py-16 sm:py-20 lg:py-24;
+}
+
+.surface-card {
+  @apply rounded-[var(--radius-lg)] border border-black/5 bg-surface-strong shadow-soft dark:border-white/10;
+}
+
+.hero-overlay {
+  background: linear-gradient(180deg, rgba(11, 18, 14, 0.08) 0%, rgba(11, 18, 14, 0.56) 100%);
+}
+
+.soft-border {
+  @apply border border-black/5 dark:border-white/10;
+}
+
+.text-balance {
+  text-wrap: balance;
+}
+
+.bg-hero-grid {
+  background-image:
+    radial-gradient(circle at 10% 20%, rgba(214, 192, 149, 0.18), transparent 28%),
+    radial-gradient(circle at 85% 15%, rgba(45, 86, 63, 0.18), transparent 25%),
+    radial-gradient(circle at 20% 90%, rgba(63, 122, 93, 0.12), transparent 30%);
+}
+
+.mesh-bg {
+  background-image:
+    linear-gradient(rgba(255,255,255,0.03) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255,255,255,0.03) 1px, transparent 1px);
+  background-size: 22px 22px;
+}
+
+.snap-x-mandatory {
+  scroll-snap-type: x mandatory;
+}
+
+.snap-start-item {
+  scroll-snap-align: start;
+}
+
+.field-input {
+  @apply w-full rounded-2xl border border-black/5 bg-surface-base px-4 py-3 text-sm text-ink-900 outline-none transition placeholder:text-ink-300 focus:border-brand-400 dark:border-white/10;
+}
+
+.glass-card {
+  @apply rounded-[28px] border border-white/20 bg-white/70 shadow-soft backdrop-blur-md dark:border-white/10 dark:bg-white/5;
+}
+
+.fab-whatsapp {
+  right: var(--fab-inline);
+  bottom: var(--fab-offset);
+}
+
+.fab-scroll {
+  right: var(--fab-inline);
+  bottom: calc(var(--fab-offset) + var(--fab-stack-size) + var(--fab-gap));
+}
+
+.fab-chat-trigger {
+  left: var(--fab-inline);
+  bottom: var(--fab-offset);
+}
+
+.fab-chat-panel {
+  left: var(--fab-inline);
+  bottom: calc(var(--fab-offset) + var(--fab-stack-size) + var(--fab-gap));
+}

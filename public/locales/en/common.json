@@ -1,0 +1,682 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "pricing": "Pricing",
+    "about": "About",
+    "contact": "Contact",
+    "terms": "Terms",
+    "privacy": "Privacy",
+    "blog": "Blog",
+    "toggleMenu": "Toggle navigation menu"
+  },
+  "common": {
+    "whatsapp": "WhatsApp",
+    "backToProjects": "Back to projects",
+    "viewProject": "View project",
+    "readMore": "Read more",
+    "backToBlog": "Back to blog",
+    "whatsappNow": "WhatsApp now",
+    "scrollTop": "Scroll to top"
+  },
+  "seo": {
+    "home": {
+      "title": "Khaleej Translate | Certified Translation in Saudi Arabia and the GCC",
+      "description": "Certified translation for passports, IDs, certificates, contracts, medical reports, and official documents across Saudi Arabia and the Gulf.",
+      "keywords": "certified translation Saudi Arabia, document translation Riyadh, passport translation, legal translation GCC"
+    },
+    "services": {
+      "title": "Translation Services | Khaleej Translate",
+      "description": "Explore certified translation services for personal, legal, academic, medical, and business documents.",
+      "keywords": "official document translation, legal translation Saudi Arabia, medical translation Riyadh"
+    },
+    "pricing": {
+      "title": "Translation Pricing | Khaleej Translate",
+      "description": "Clear starting rates for common document translation requests, stamped copies, courier delivery, and urgent service.",
+      "keywords": "translation prices Saudi Arabia, certified translation rates, passport translation cost"
+    },
+    "about": {
+      "title": "About Khaleej Translate",
+      "description": "Learn how Khaleej Translate delivers certified translation with accuracy, confidentiality, and dependable service across Saudi Arabia and the GCC.",
+      "keywords": "about translation company Saudi Arabia, certified translators GCC"
+    },
+    "contact": {
+      "title": "Request a Translation Quote | Khaleej Translate",
+      "description": "Send your files and receive a confirmed quotation for certified translation with WhatsApp and email support.",
+      "keywords": "translation quote Saudi Arabia, upload documents translation"
+    },
+    "blog": {
+      "title": "Translation Blog | Khaleej Translate",
+      "description": "Helpful articles about certified translation, document preparation, medical and legal files, and official submission requirements in Saudi Arabia and the GCC.",
+      "keywords": "translation blog Saudi Arabia, certified translation articles, document translation GCC"
+    },
+    "notFound": {
+      "title": "Page not found | Khaleej Translate",
+      "description": "The page you are looking for could not be found."
+    },
+    "terms": {
+      "title": "Terms and Conditions | Khaleej Translate",
+      "description": "Terms and conditions for Khaleej Translate services."
+    },
+    "privacy": {
+      "title": "Privacy Policy | Khaleej Translate",
+      "description": "Privacy policy for Khaleej Translate website and document uploads."
+    }
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Certified translation for Saudi Arabia and the GCC",
+      "title": "Certified translation for official documents, delivered with clarity and confidence.",
+      "description": "Khaleej Translate supports individuals, families, and businesses with certified translation for passports, IDs, certificates, contracts, medical reports, and other documents prepared for official use.",
+      "primaryCta": "Request a quote",
+      "secondaryCta": "Explore services",
+      "quoteCardEyebrow": "Quick estimate",
+      "quoteCardTitle": "Estimate the starting cost before you send the file.",
+      "quoteCardDescription": "Choose the document type, page count, and turnaround to receive an instant starting estimate for your request.",
+      "trustItems": [
+        "Clear support for official submissions, embassies, universities, and business requirements.",
+        "Arabic with English, French, German, Turkish, Urdu, and other major language pairs.",
+        "Digital delivery with courier options when you need stamped hard copies."
+      ]
+    }
+  },
+  "trustBar": {
+    "items": [
+      "Certified translation office",
+      "Secure document handling",
+      "Arabic and major language pairs",
+      "Priority turnaround options",
+      "Stamped copies available",
+      "Personal and corporate support"
+    ]
+  },
+  "services": {
+    "eyebrow": "Services",
+    "title": "Certified translation services for the documents that matter most.",
+    "description": "We support individuals, families, companies, and professional firms with careful review, clear turnaround, and dependable delivery.",
+    "items": [
+      {
+        "stat": "Official use",
+        "title": "Personal documents",
+        "body": "IDs, passports, family records, birth certificates, marriage certificates, and other civil documents prepared for official submission."
+      },
+      {
+        "stat": "Terminology review",
+        "title": "Legal translation",
+        "body": "Contracts, powers of attorney, court papers, company resolutions, and other legal documents translated with accurate terminology."
+      },
+      {
+        "stat": "University submissions",
+        "title": "Academic translation",
+        "body": "Certificates, transcripts, recommendation letters, and educational records prepared for admissions, equivalency, and scholarship requests."
+      },
+      {
+        "stat": "Confidential handling",
+        "title": "Medical translation",
+        "body": "Medical reports, discharge summaries, insurance files, and hospital documents reviewed carefully for clarity and consistency."
+      },
+      {
+        "stat": "Corporate support",
+        "title": "Business translation",
+        "body": "Commercial registrations, HR files, internal policies, tenders, and correspondence for companies operating across the Gulf."
+      },
+      {
+        "stat": "Priority queue",
+        "title": "Urgent delivery",
+        "body": "Same-day and express options are available for urgent requests that need faster review, approval, and delivery."
+      }
+    ]
+  },
+  "documents": {
+    "eyebrow": "Common documents",
+    "title": "Frequently requested document types, prepared for official submission.",
+    "description": "Whether you need a single certificate or a full business file, we handle the document categories most commonly requested across Saudi Arabia and the Gulf.",
+    "columns": [
+      {
+        "title": "Personal",
+        "items": [
+          "National ID",
+          "Iqama",
+          "Passport",
+          "Birth certificate",
+          "Marriage certificate"
+        ]
+      },
+      {
+        "title": "Academic",
+        "items": [
+          "Degree certificate",
+          "Transcript",
+          "Recommendation letter",
+          "Training certificate",
+          "School records"
+        ]
+      },
+      {
+        "title": "Legal and business",
+        "items": [
+          "Contracts",
+          "Commercial registration",
+          "Power of attorney",
+          "Court documents",
+          "Company policies"
+        ]
+      }
+    ]
+  },
+  "process": {
+    "eyebrow": "How it works",
+    "title": "A clear process from file review to final delivery.",
+    "description": "We confirm the scope, turnaround, and delivery method before work begins so you know exactly what to expect.",
+    "items": [
+      {
+        "title": "Send your files",
+        "body": "Upload the document or send it on WhatsApp with the target language, deadline, and any special requirements."
+      },
+      {
+        "title": "Receive a confirmed quote",
+        "body": "Our team reviews the file and confirms the price, delivery time, and whether you need a stamped or courier copy."
+      },
+      {
+        "title": "Translation and quality check",
+        "body": "The document is translated, reviewed carefully, and formatted clearly for official submission or professional use."
+      },
+      {
+        "title": "Delivery",
+        "body": "Receive the final file digitally, with courier delivery available when a stamped hard copy is required."
+      }
+    ]
+  },
+  "quoteCalculator": {
+    "eyebrow": "Quick estimate",
+    "title": "Estimate the starting cost before you send your file.",
+    "description": "Use the calculator for a fast starting estimate, then share the document for a confirmed quote based on the exact language pair and formatting needs.",
+    "smartPricing": "Pricing changes by document type, turnaround, and delivery method.",
+    "highlights": [
+      "Useful for passports, IDs, certificates, contracts, and medical reports.",
+      "Standard, priority, and express options are available for urgent requests.",
+      "A confirmed quote is provided after we review the file and target language."
+    ],
+    "documentType": "Document type",
+    "pages": "Number of pages",
+    "turnaround": "Turnaround",
+    "delivery": "Delivery method",
+    "certifiedCopy": "Include a stamped certified copy",
+    "uploadTitle": "Upload files for faster review",
+    "uploadDescription": "Accepted formats: PDF, JPG, PNG, DOC, and DOCX.",
+    "estimatedPrice": "Estimated starting price",
+    "note": "This is a starting estimate. Final pricing depends on the document, language pair, clarity, and layout requirements.",
+    "requestQuote": "Send estimate on WhatsApp",
+    "whatsappIntro": "Hello Khaleej Translate, I would like a confirmed quotation for the following request:",
+    "docOptions": [
+      {
+        "label": "ID or Iqama",
+        "value": "id",
+        "base": 45
+      },
+      {
+        "label": "Passport",
+        "value": "passport",
+        "base": 55
+      },
+      {
+        "label": "Certificate",
+        "value": "certificate",
+        "base": 60
+      },
+      {
+        "label": "Legal contract",
+        "value": "legal",
+        "base": 120
+      },
+      {
+        "label": "Medical report",
+        "value": "medical",
+        "base": 95
+      }
+    ],
+    "speedOptions": [
+      {
+        "label": "Standard - 24 to 48 hours",
+        "value": "standard",
+        "multiplier": 1
+      },
+      {
+        "label": "Priority - Same day",
+        "value": "priority",
+        "multiplier": 1.35
+      },
+      {
+        "label": "Express - Within 2 to 4 hours",
+        "value": "express",
+        "multiplier": 1.75
+      }
+    ],
+    "deliveryOptions": [
+      {
+        "label": "Digital copy by email",
+        "value": "email",
+        "fee": 0
+      },
+      {
+        "label": "Email and WhatsApp",
+        "value": "whatsapp",
+        "fee": 10
+      },
+      {
+        "label": "Courier hard copy",
+        "value": "courier",
+        "fee": 35
+      }
+    ]
+  },
+  "competitiveEdge": {
+    "eyebrow": "Why clients choose us",
+    "title": "Translation service designed around accuracy, speed, and peace of mind.",
+    "description": "Every request is handled with the professionalism expected for official documents, business submissions, and time-sensitive files.",
+    "items": [
+      {
+        "title": "Clear communication",
+        "body": "You receive a confirmed quote, delivery time, and service details before work starts."
+      },
+      {
+        "title": "Confidential handling",
+        "body": "Sensitive personal, medical, and legal files are handled with care throughout the review and delivery process."
+      },
+      {
+        "title": "Practical delivery options",
+        "body": "Choose digital delivery, WhatsApp follow-up, or courier shipping when stamped copies are required."
+      },
+      {
+        "title": "Official-document focus",
+        "body": "Our workflows are designed for files used with embassies, universities, employers, courts, and government entities."
+      },
+      {
+        "title": "Responsive support",
+        "body": "Questions about language pairs, turnaround, and pricing are answered quickly so the request can move forward without delay."
+      },
+      {
+        "title": "Professional presentation",
+        "body": "Names, dates, terminology, and layout are reviewed carefully to keep the final document clear and submission-ready."
+      }
+    ]
+  },
+  "coverage": {
+    "eyebrow": "Coverage",
+    "title": "Supporting clients across Saudi Arabia and the Gulf.",
+    "description": "Files can be received online and delivered digitally, making it easy to support individuals and organizations across the region.",
+    "sidebar": "We regularly support embassies, universities, law firms, hospitals, HR departments, and private clients who need clear, submission-ready translation.",
+    "cities": [
+      {
+        "title": "Riyadh",
+        "body": "Fast support for individual, legal, and corporate requests across the capital."
+      },
+      {
+        "title": "Jeddah",
+        "body": "Reliable certified translation for travel, study, employment, and commercial paperwork."
+      },
+      {
+        "title": "Dammam",
+        "body": "Practical service for personal documents, HR files, and business correspondence in the Eastern Province."
+      },
+      {
+        "title": "Dubai",
+        "body": "Cross-border support for clients who need Arabic and English translation for business and official use."
+      },
+      {
+        "title": "Doha",
+        "body": "Responsive handling of academic, legal, and medical files with digital delivery options."
+      },
+      {
+        "title": "Kuwait City",
+        "body": "Convenient support for certificates, contracts, and other documents needed for regional submissions."
+      }
+    ]
+  },
+  "pricingPreview": {
+    "eyebrow": "Starting rates",
+    "title": "Clear starting prices for the most common requests.",
+    "description": "Our most requested document types are priced clearly so you can understand the service level before requesting the final quote.",
+    "turnaroundHint": "Complex files and rare language pairs are quoted after review.",
+    "viewPricing": "View pricing details",
+    "items": [
+      {
+        "title": "ID or Iqama",
+        "price": "45 SAR",
+        "body": "Certified translation for personal identification documents with standard digital delivery."
+      },
+      {
+        "title": "Passport",
+        "price": "55 SAR",
+        "body": "Passport translation prepared in a clear format for submission and official use."
+      },
+      {
+        "title": "Certificate",
+        "price": "60 SAR",
+        "body": "Academic and civil certificates with formatting review and ready-to-send delivery."
+      }
+    ]
+  },
+  "testimonials": {
+    "eyebrow": "Client feedback",
+    "title": "Trusted by clients who need accuracy, confidentiality, and reliable delivery.",
+    "description": "Feedback from recent translation requests across personal, academic, legal, and business documents.",
+    "averageLabel": "Average rating",
+    "totalLabel": "Featured reviews",
+    "sidebarTitle": "Why clients recommend Khaleej Translate",
+    "sidebarDescription": "The service experience is designed to make official document translation straightforward, confidential, and easy to follow from the first message.",
+    "highlights": [
+      "Clear quote and delivery time before work starts.",
+      "Careful review of names, dates, and document formatting.",
+      "Digital delivery with courier options for stamped hard copies."
+    ],
+    "primaryCta": "Request a quote",
+    "secondaryCta": "Chat on WhatsApp",
+    "items": [
+      {
+        "name": "Sarah A.",
+        "role": "Visa application client",
+        "quote": "The team explained the process clearly from the beginning, reviewed my passport copy quickly, and delivered the translation exactly on time."
+      },
+      {
+        "name": "Abdullah M.",
+        "role": "Operations manager",
+        "quote": "We requested translation for contracts and HR files for our Riyadh office. Communication was professional and the final formatting was excellent."
+      },
+      {
+        "name": "Nour H.",
+        "role": "University applicant",
+        "quote": "My academic documents were translated neatly and the team answered my submission questions before I sent everything to the university."
+      }
+    ]
+  },
+  "faq": {
+    "eyebrow": "Frequently asked questions",
+    "title": "Answers to the questions clients ask before sending their documents.",
+    "description": "If your request is urgent or your document is unusual, send it to us and we will confirm the best service for it.",
+    "items": [
+      {
+        "q": "What documents do you translate?",
+        "a": "We translate passports, IDs, certificates, contracts, medical reports, court papers, commercial documents, and many other official files."
+      },
+      {
+        "q": "How can I send my files?",
+        "a": "You can upload them through the quotation form or send them directly on WhatsApp for a quick review."
+      },
+      {
+        "q": "How long does translation usually take?",
+        "a": "Turnaround depends on the document type, page count, and language pair. Standard, priority, and express options are available."
+      },
+      {
+        "q": "Do you provide stamped hard copies?",
+        "a": "Yes. Stamped copies and courier delivery can be arranged when required for official submission."
+      },
+      {
+        "q": "Which languages do you support?",
+        "a": "We support Arabic with English, French, German, Turkish, Urdu, Spanish, Russian, Italian, Chinese, and other requested language pairs."
+      },
+      {
+        "q": "How is the final price confirmed?",
+        "a": "The final quote depends on the document type, page count, language pair, urgency, and any formatting or certification requirements."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Need a certified translation quote?",
+    "description": "Send the document, specify the target language, and our team will reply with the best option for turnaround and delivery.",
+    "button": "Start your request"
+  },
+  "servicesPage": {
+    "eyebrow": "Service scope",
+    "title": "Translation services for personal, professional, and official documents.",
+    "description": "From single-page certificates to detailed legal and medical files, we provide certified translation with clear turnaround and delivery options.",
+    "groups": [
+      {
+        "title": "Personal and family documents",
+        "items": [
+          "National IDs and Iqamas",
+          "Passports",
+          "Birth certificates",
+          "Marriage certificates",
+          "Family records"
+        ]
+      },
+      {
+        "title": "Legal and business documents",
+        "items": [
+          "Contracts and agreements",
+          "Commercial registrations",
+          "Court papers",
+          "Powers of attorney",
+          "HR and company files"
+        ]
+      },
+      {
+        "title": "Academic and medical documents",
+        "items": [
+          "Degrees and certificates",
+          "Transcripts",
+          "Recommendation letters",
+          "Medical reports",
+          "Insurance documents"
+        ]
+      }
+    ],
+    "languagesEyebrow": "Language pairs",
+    "languagesTitle": "Language combinations requested most often in Saudi Arabia and the GCC.",
+    "languagesDescription": "If your required language is not listed, send the file and destination language and we will confirm availability before starting.",
+    "languagesSidebar": "Our most common requests pair Arabic with English, French, German, Turkish, Urdu, Spanish, Russian, Italian, Chinese, and other major international languages.",
+    "languages": [
+      "Arabic / English",
+      "Arabic / French",
+      "Arabic / German",
+      "Arabic / Turkish",
+      "Arabic / Urdu",
+      "Arabic / Spanish",
+      "Arabic / Russian",
+      "Arabic / Italian",
+      "Arabic / Chinese"
+    ]
+  },
+  "pricingPage": {
+    "eyebrow": "Pricing",
+    "title": "Straightforward pricing for common translation requests.",
+    "description": "Starting rates are shown for the services clients request most often. Final quotes are confirmed after reviewing the file, language pair, and required turnaround.",
+    "plans": [
+      {
+        "title": "Standard",
+        "price": "45 to 60 SAR per page",
+        "body": "Suitable for personal documents with digital delivery within 24 to 48 hours.",
+        "features": [
+          "Digital PDF delivery",
+          "Basic layout cleanup",
+          "Ideal for IDs and certificates"
+        ]
+      },
+      {
+        "title": "Priority",
+        "price": "75 to 95 SAR per page",
+        "body": "Faster delivery for important academic, business, and personal documents.",
+        "features": [
+          "Same-day service",
+          "Priority review queue",
+          "WhatsApp follow-up"
+        ]
+      },
+      {
+        "title": "Legal and complex",
+        "price": "From 120 SAR per page",
+        "body": "For contracts, court papers, and terminology-heavy documents that require closer review.",
+        "features": [
+          "Terminology review",
+          "Careful formatting",
+          "Prepared for professional submission"
+        ]
+      }
+    ],
+    "addOnsEyebrow": "Additional services",
+    "addOnsTitle": "Optional services available with your main translation order.",
+    "addOnsDescription": "Add the services you need when the request requires stamped copies, courier delivery, or faster turnaround.",
+    "addOnsSidebar": "Our team will confirm availability and timing for any optional service before your order is finalized.",
+    "fastTurnaround": "Availability depends on the document type and requested deadline.",
+    "addOns": [
+      {
+        "title": "Stamped certified copy",
+        "price": "+35 SAR"
+      },
+      {
+        "title": "Courier hard copy",
+        "price": "+35 SAR"
+      },
+      {
+        "title": "Express delivery within 2 to 4 hours",
+        "price": "+75 SAR"
+      },
+      {
+        "title": "Legal terminology review",
+        "price": "+50 SAR"
+      }
+    ]
+  },
+  "about": {
+    "eyebrow": "About us",
+    "title": "A certified translation office built for clarity, accuracy, and dependable service.",
+    "description": "Khaleej Translate supports individuals, families, companies, and institutions that need professional translation for official use across Saudi Arabia and the Gulf.",
+    "story": "We provide certified translation for official documents with a service experience centered on clear communication, careful review, and timely delivery. Clients rely on us for personal documents, legal files, academic records, medical reports, and business paperwork that must be presented in a clean and professional format.",
+    "valuesEyebrow": "What guides our work",
+    "valuesTitle": "The standards behind every translation request.",
+    "valuesDescription": "From the first message to final delivery, we focus on the details that matter most when a document will be submitted to an embassy, university, employer, court, or government entity.",
+    "values": [
+      {
+        "title": "Accuracy",
+        "body": "Names, dates, terminology, and document details are reviewed carefully to reduce errors and avoid unnecessary revisions."
+      },
+      {
+        "title": "Confidentiality",
+        "body": "Personal, legal, and medical files are handled with respect for privacy throughout the quotation, translation, and delivery stages."
+      },
+      {
+        "title": "Responsiveness",
+        "body": "We reply quickly through WhatsApp and email so clients can confirm pricing, timing, and delivery without delay."
+      }
+    ]
+  },
+  "contact": {
+    "eyebrow": "Contact us",
+    "title": "Send your documents and receive a confirmed translation quote.",
+    "description": "Share your files, preferred language, and deadline. We will review the request and guide you to the right service and delivery option.",
+    "phone": "Phone and WhatsApp",
+    "email": "Email",
+    "location": "Service coverage",
+    "formTitle": "Request your quotation",
+    "formIntro": "Use the form to prepare your request. When you continue, a prefilled WhatsApp message will open so our team can review the details quickly.",
+    "whatsappIntro": "Hello Khaleej Translate, I would like a quotation for the following documents:",
+    "form": {
+      "name": "Full name",
+      "phone": "Phone number",
+      "email": "Email address",
+      "documentType": "Document type",
+      "message": "Request details",
+      "upload": "Upload your files",
+      "uploadHint": "You can select multiple files before continuing to WhatsApp.",
+      "submit": "Continue on WhatsApp"
+    }
+  },
+  "blogPage": {
+    "eyebrow": "Articles and guides",
+    "title": "Helpful guidance for certified translation requests in Saudi Arabia and the GCC.",
+    "description": "Read practical articles about document preparation, official submission requirements, delivery timelines, and translation best practices."
+  },
+  "blogPreview": {
+    "eyebrow": "Articles and insights",
+    "title": "Guides that answer the questions clients ask before sending their documents.",
+    "description": "Explore practical advice on certified translation, document preparation, medical and legal files, and official submission requirements.",
+    "cta": "View all articles"
+  },
+  "blogDetails": {
+    "notFoundTitle": "Article not found",
+    "readyTitle": "Need help with a similar document?",
+    "readyDescription": "Send the file on WhatsApp or through the quotation form and our team will review the best translation option for you.",
+    "readyCta": "Chat on WhatsApp",
+    "relatedTitle": "Related articles"
+  },
+  "supportChat": {
+    "title": "Service assistant",
+    "subtitle": "Quick answers about document translation, delivery times, and pricing",
+    "launch": "Service assistant",
+    "placeholder": "Ask about your document",
+    "send": "Send",
+    "note": "For a confirmed quote, send your file with the target language and deadline on WhatsApp or through the quotation form.",
+    "intro": "Welcome to Khaleej Translate. I can help you understand document types, turnaround options, pricing, and how to start your request.",
+    "prompts": [
+      "How long does passport translation take?",
+      "Do you translate medical reports?",
+      "How can I get a price quote?",
+      "Can I send my files on WhatsApp?"
+    ],
+    "replies": {
+      "pricing": "Pricing depends on the document type, number of pages, language pair, and requested turnaround. Personal documents usually start from the standard rate, while contracts and specialized files are quoted after review.",
+      "turnaround": "Standard delivery is usually within 24 to 48 hours. Priority and same-day options are available for urgent requests after we review the file.",
+      "documents": "We translate passports, IDs, academic certificates, contracts, court papers, medical reports, commercial records, and many other official documents.",
+      "languages": "We support Arabic with English, French, German, Turkish, Urdu, Spanish, Russian, Italian, Chinese, and other requested language pairs.",
+      "contact": "You can send your document on WhatsApp or use the quotation form. Include the target language, deadline, and whether you need a stamped hard copy.",
+      "fallback": "I can help with document types, delivery time, pricing, language pairs, and how to send your files. Ask any service question and I will guide you to the next step."
+    }
+  },
+  "terms": {
+    "eyebrow": "Terms and conditions",
+    "title": "Terms and conditions",
+    "description": "Please review the terms that govern quotation, delivery, and use of our translation services.",
+    "sections": [
+      {
+        "title": "Quotations and scope",
+        "body": "Prices, delivery times, and service details depend on the document type, language pair, page count, formatting needs, and urgency of the request."
+      },
+      {
+        "title": "Client responsibility",
+        "body": "Clients are responsible for sending clear and complete files and for reviewing names, dates, and target language details before final approval."
+      },
+      {
+        "title": "Delivery timelines",
+        "body": "Estimated delivery times begin after the quotation is approved and the required files and instructions are confirmed. Urgent requests may require separate scheduling."
+      },
+      {
+        "title": "Final format",
+        "body": "Digital delivery is available for all orders. Stamped copies and courier delivery are arranged when selected as part of the confirmed service."
+      }
+    ]
+  },
+  "privacy": {
+    "eyebrow": "Privacy policy",
+    "title": "Privacy policy",
+    "description": "We handle uploaded files and personal details with care and use them only to review, process, and deliver the requested service.",
+    "sections": [
+      {
+        "title": "Files and personal data",
+        "body": "Uploaded documents and contact details are used only to review the request, prepare the quotation, and complete the translation service."
+      },
+      {
+        "title": "Communication",
+        "body": "We may contact you by WhatsApp or email to confirm pricing, turnaround, delivery details, or questions related to the submitted files."
+      },
+      {
+        "title": "Access and confidentiality",
+        "body": "Access to client files is limited to the team members involved in reviewing, translating, and delivering the request."
+      },
+      {
+        "title": "Retention",
+        "body": "Documents and request details are retained only for the period reasonably needed to complete the service and related follow-up."
+      }
+    ]
+  },
+  "footer": {
+    "description": "Certified translation office for personal, legal, academic, medical, and corporate documents across Saudi Arabia and the GCC.",
+    "links": "Quick links",
+    "contact": "Contact"
+  },
+  "notFound": {
+    "title": "Page not found",
+    "description": "The page you requested is unavailable. Return to the home page to continue your request.",
+    "cta": "Back to home"
+  }
+}
