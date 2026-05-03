@@ -111,12 +111,12 @@ export function QuoteCalculatorSection() {
             {files.length ? <p className="text-xs text-ink-500">{files.join(', ')}</p> : null}
           </label>
 
-          <div className="mt-5 rounded-[28px] bg-brand-900 p-6 text-white dark:bg-surface-strong dark:text-ink-900">
+          <div className="mt-5 rounded-[28px] bg-brand-900 p-6 text-white dark:bg-surface-strong">
             <div className="flex flex-wrap items-end justify-between gap-4">
               <div>
-                <p className="text-xs font-semibold uppercase tracking-[0.24em] text-white/65 dark:text-ink-500">{t('quoteCalculator.estimatedPrice')}</p>
+                <p className="text-xs font-semibold uppercase tracking-[0.24em] text-white/65 dark:text-white/55">{t('quoteCalculator.estimatedPrice')}</p>
                 <p className="mt-3 font-display text-5xl font-semibold">{total} SAR</p>
-                <p className="mt-3 text-sm leading-7 text-white/75 dark:text-ink-500">{t('quoteCalculator.note')}</p>
+                <p className="mt-3 text-sm leading-7 text-white/75 dark:text-white/65">{t('quoteCalculator.note')}</p>
               </div>
               <Button type="button" onClick={handleWhatsAppRequest}>{t('quoteCalculator.requestQuote')}</Button>
             </div>
